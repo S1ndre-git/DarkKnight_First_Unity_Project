@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 2c8dd0938c7bfa143a0cbfbde9ab5276
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7477935240406217491
+    second: barra de vida (blood) 576x320_0
+  - first:
+      213: 8449994982894297018
+    second: barra de vida (blood) 576x320_1
+  - first:
+      213: -714658503626989623
+    second: barra de vida (blood) 576x320_2
+  - first:
+      213: -125044601193184867
+    second: barra de vida (blood) 576x320_3
+  - first:
+      213: 2973531976117448426
+    second: barra de vida (blood) 576x320_4
+  - first:
+      213: -4869019470071386553
+    second: barra de vida (blood) 576x320_5
+  - first:
+      213: 8901446178184314864
+    second: barra de vida (blood) 576x320_6
+  - first:
+      213: -5658259797296824615
+    second: barra de vida (blood) 576x320_7
+  - first:
+      213: -1240781672184754416
+    second: barra de vida (blood) 576x320_8
+  - first:
+      213: 8769018776661362316
+    second: barra de vida (blood) 576x320_9
+  - first:
+      213: -1220633744164532714
+    second: barra de vida (blood) 576x320_10
+  - first:
+      213: 7675321121653234789
+    second: barra de vida (blood) 576x320_11
+  - first:
+      213: 1929065709866449380
+    second: barra de vida (blood) 576x320_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 267
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec4636c489093890800000000000000
+      internalID: -7477935240406217491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 267
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5f3dbaa9644570800000000000000
+      internalID: 8449994982894297018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 267
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd99b90e50516f0800000000000000
+      internalID: -714658503626989623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 203
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91ccc40990c34ef0800000000000000
+      internalID: -125044601193184867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 203
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeeebce39b144920800000000000000
+      internalID: 2973531976117448426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 203
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e2fe1d694cd6cb0800000000000000
+      internalID: -4869019470071386553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 139
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff3fed132a488b70800000000000000
+      internalID: 8901446178184314864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 139
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9debf3f61b2d971b0800000000000000
+      internalID: -5658259797296824615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 139
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fcc91a4abd7cee0800000000000000
+      internalID: -1240781672184754416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 75
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8681abfd10d1b970800000000000000
+      internalID: 8769018776661362316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 74
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ec73ea3107f0fe0800000000000000
+      internalID: -1220633744164532714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 75
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c913105e7348a60800000000000000
+      internalID: 7675321121653234789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra de vida (blood) 576x320_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9f9f0ea0b65ca10800000000000000
+      internalID: 1929065709866449380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barra de vida (blood) 576x320_0: -7477935240406217491
+      barra de vida (blood) 576x320_1: 8449994982894297018
+      barra de vida (blood) 576x320_10: -1220633744164532714
+      barra de vida (blood) 576x320_11: 7675321121653234789
+      barra de vida (blood) 576x320_12: 1929065709866449380
+      barra de vida (blood) 576x320_2: -714658503626989623
+      barra de vida (blood) 576x320_3: -125044601193184867
+      barra de vida (blood) 576x320_4: 2973531976117448426
+      barra de vida (blood) 576x320_5: -4869019470071386553
+      barra de vida (blood) 576x320_6: 8901446178184314864
+      barra de vida (blood) 576x320_7: -5658259797296824615
+      barra de vida (blood) 576x320_8: -1240781672184754416
+      barra de vida (blood) 576x320_9: 8769018776661362316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
