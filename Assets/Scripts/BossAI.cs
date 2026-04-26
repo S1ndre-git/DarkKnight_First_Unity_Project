@@ -3,6 +3,10 @@ using System.Collections;
 
 public class BossAI : MonoBehaviour
 {
+
+    [Header("Victory")]
+    public VictoryManager victoryManager;
+
     public Transform attackRoot;
     
     [Header("Attack")]
@@ -275,7 +279,7 @@ public class BossAI : MonoBehaviour
         else
         {
             float roll = Random.value;
-            if (roll < 0.8f)
+            if (roll < 0.6f)
             {
                 StartAttack("attack3", attack3LockTime);
             }
@@ -582,6 +586,20 @@ public class BossAI : MonoBehaviour
 
         if (hurtBoxObject != null)
             hurtBoxObject.SetActive(false);
+
+        if (victoryManager != null)
+{
+    victoryManager.StartVictorySequence();
+}
+else
+{
+    Debug.LogWarning("VictoryManager is not assigned on BossAI!");
+}
+
+        if (BGMManager.Instance != null)
+{
+    BGMManager.Instance.BossDefeated();
+}
 
         Destroy(gameObject, destroyAfterDeath);
     }

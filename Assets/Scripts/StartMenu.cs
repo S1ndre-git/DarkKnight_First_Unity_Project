@@ -13,11 +13,16 @@ public class StartMenu : MonoBehaviour
     }
 
     public void OnStartButton()
+{
+    overlay.SetActive(false);
+    Time.timeScale = 1f;
+    isGameStarted = true;
+
+    if (BGMManager.Instance != null)
     {
-        overlay.SetActive(false);
-        Time.timeScale = 1f;
-        isGameStarted = true;
+        BGMManager.Instance.StartGameBGM();
     }
+}
 
     private void Update()
     {
